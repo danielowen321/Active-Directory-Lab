@@ -2,7 +2,7 @@
 
 <h2>Description</h2>
 In this project I built an Active Directory homelab using virtualization through Oracle VM VirtualBox. This project aided me in gaining real world experience and practice troubleshooting with Active Directory.
-Using Windows PowerShell I was able to generate a database containing:<br />
+Using scripts in Windows PowerShell, I was able to generate the following for my database:<br />
 Computers  = 2 <br />
 Workstations = 1<br />
 Servers    = 1<br />
@@ -42,7 +42,7 @@ Here is a list of users that were added to Active Directory with the PowerShell 
 <img src="https://imgur.com/Zq4eSom.png" height="80%" width="80%" alt="Active Directory"/>
 <br />
 <br />
-From the user account I created, I was able to successfully ping my Active Directory server at 192.168.20.10 which verified they were connected on the same network<br/>
+I created a user account "PC1", from there I was able to successfully ping my Active Directory server at 192.168.20.10 which verified they were connected on the same network<br/>
 <img src="https://imgur.com/pufsLxn.png" height="80%" width="80%" alt="Active Directory"/>
 <br />
 <br />
