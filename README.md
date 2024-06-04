@@ -46,7 +46,7 @@ I created a user account "PC1", from there I was able to successfully ping my Ac
 <img src="https://imgur.com/pufsLxn.png" height="80%" width="80%" alt="Active Directory"/>
 <br />
 <br />
-Assigning a static IP address for my user account "PC1" <br/>
+Assigning a static IP address for my user account "PC1" and allocating the preferred DNS server to 192.168.20.10 (AD Domain Controller) <br/>
 <img src="https://imgur.com/V7gtZYq.png" height="80%" width="80%" alt="Active Directory"/>
 <br />
 <br />
